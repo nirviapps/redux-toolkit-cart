@@ -1,0 +1,39 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-color
+{
+    background-color: #6C91C2;
+}
+
+.count-bg
+{
+    background-color: #373F47;
+}
+
+/* */
+
+.text-col
+{
+    color: #f5f6fa;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 8rem;
+}
+
+.text-col:hover
+{
+    color: #373F47;;
+}
+
+
+.logo
+{
+    color: #373F47;
+    font-size: 23px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

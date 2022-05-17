@@ -1,0 +1,26 @@
+- redux toolkit is used to simplify redux setup
+- it has some additional libraries 
+- setup is simple compared to redux 
+
+######## setup #########
+
+npm install @reduxjs/toolkit react-redux
+
+create store.js
+
+import { configureStore } from '@reduxjs/toolkit';
+
+export const store = configureStore({
+    reducer: {},
+})
+
+
+- setup provider in index.js
+
+
+
+##### setup cart slice #####
+
+- one feature of application is one slice 
+
+
